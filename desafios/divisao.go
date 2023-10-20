@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func div() {
 	//i := 1
 	//meuSlice := make([]int, 0, 100)
 	//for i <= 100 {
